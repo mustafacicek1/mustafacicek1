@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on programming
 - 🌱 I’m currently learning .NET
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: LinkedIn
 
 # Contact
 
